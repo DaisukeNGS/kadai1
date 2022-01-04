@@ -8,6 +8,8 @@
 
 ![スクリーンショット (22)](https://user-images.githubusercontent.com/92415702/148041053-ebb4d930-0bc9-4fea-8fa7-e2de3fd052f8.png)
 
+使用方法：ラズパイにkadai1/myled/myled.c　よりプログラムをmake入出力を切り替えることでLEDがついたり消えたりする。
+
 
 # Author
 著作者は Ryuichi Ueda : https://github.com/ryuichiueda/robosys_device_drivers.git
